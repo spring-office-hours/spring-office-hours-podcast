@@ -26,7 +26,7 @@ Learn more about Dan and DaShaun
 - [Website](https://dashaun.com/)
 - [Twitter](https://twitter.com/dashaun/)
 - [YouTube](https://www.youtube.com/@dashaun)
-- [LinkedIn[(https://www.linkedin.com/in/dashaun/)
+- [LinkedIn](https://www.linkedin.com/in/dashaun/)
 - [GitHub](https://github.com/dashaun/)
 
 ## Ask you Questions
